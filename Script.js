@@ -4,7 +4,7 @@ const ctx = canvas.getContext("2d");
 // Valores fijos predeterminados:
 let speed = 15;          // velocidad fija
 let message = "Te Amo";  // texto fijo
-let color = "#ff69b4";   // color fijo
+let color = "#C8A2C8";   // color fijo
 
 let fontSize = 15;
 let columns;
